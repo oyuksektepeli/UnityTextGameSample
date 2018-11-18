@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfde565db62568e439bcbe59be93be84, type: 3}
+  m_Name: ReadyWarWithTank
+  m_EditorClassIdentifier: 
+  storyText: "Tebrikler. Tank kullanmay\u0131 bilmen sava\u015Fta en b\xFCy\xFCk yard\u0131mc\u0131m\u0131z
+    olacak. \n\nAskerler senin kullanaca\u011F\u0131n tank ile beraber sald\u0131rmaya
+    haz\u0131r. \n\n1. Uzayl\u0131larla Sava\u015F. \n2. Bah\u015Feye geri d\xF6n.
+    \n\n"
+  nextStates:
+  - {fileID: 11400000, guid: 52bc82274dda56947b2d287c9b323680, type: 2}
+  - {fileID: 11400000, guid: a43869fefd513934c95729ad38bd042f, type: 2}

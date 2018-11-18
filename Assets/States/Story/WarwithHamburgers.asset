@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfde565db62568e439bcbe59be93be84, type: 3}
+  m_Name: WarwithHamburgers
+  m_EditorClassIdentifier: 
+  storyText: "Giray uzayl\u0131lara gizlice yana\u015F\u0131m bombay\u0131 \xFCstlerine
+    att\u0131. \xD6nlerini g\xF6remeyen uzayl\u0131lar ka\xE7maya \xE7al\u0131\u015F\u0131rken
+    Giray ve babas\u0131 hepsini yakalay\u0131p ba\u011Flad\u0131r. \n\nSan\u0131r\u0131m
+    bu ma\u011Flubiyet sonras\u0131 uzayl\u0131lar ka\xE7acaklar. \n\n1. Bah\xE7eye
+    geri d\xF6n. \n2. Neva ile Annenin yan\u0131na git. \n"
+  nextStates:
+  - {fileID: 11400000, guid: a43869fefd513934c95729ad38bd042f, type: 2}
+  - {fileID: 11400000, guid: 1602a0d86b0a08542b42a5f51aef0678, type: 2}

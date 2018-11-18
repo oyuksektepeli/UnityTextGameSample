@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfde565db62568e439bcbe59be93be84, type: 3}
+  m_Name: Garden
+  m_EditorClassIdentifier: 
+  storyText: "Giray ak\u0131ll\u0131ca hareket ederek, gerekli e\u015Fyalar\u0131
+    yan\u0131na almak i\xE7in gizli odadan Bah\xE7eye \xE7\u0131kt\u0131. \n\n\u015Eimdi
+    yapmas\u0131 gereken i\u015Fler var. \n\n1. Eve geri d\xF6n. \n2. Askerlerden
+    yard\u0131m iste. \n3. Enerji almak i\xE7in Hamburgerlerin oldu\u011Fu yere git.
+    \n"
+  nextStates:
+  - {fileID: 11400000, guid: dd699838a4119be4494989f380bf642f, type: 2}
+  - {fileID: 11400000, guid: 8e4c8a2738400cd4188cf4563f539240, type: 2}
+  - {fileID: 11400000, guid: d30319f8241a4554d81fe7c99d00ced7, type: 2}

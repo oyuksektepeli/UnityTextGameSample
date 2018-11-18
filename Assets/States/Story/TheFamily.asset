@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfde565db62568e439bcbe59be93be84, type: 3}
+  m_Name: TheFamily
+  m_EditorClassIdentifier: 
+  storyText: "Giray ve Babas\u0131, Annesi ve karde\u015Finin yan\u0131na varm\u0131\u015Ft\u0131r.
+    Annesi ve karde\u015Fi Giray'\u0131 g\xF6rd\xFC\u011F\xFC i\xE7in \xE7ok mutlu
+    oldular. \n\nGiray \xE7ok cesur ve ak\u0131ll\u0131ca hareket ederek ailesini
+    kurtard\u0131. \n\nGiray ayn\u0131 zamanda uzayl\u0131lar\u0131 bir daha insanlara
+    sald\u0131rmamalar\u0131 i\xE7in uyard\u0131. \n\nGiray art\u0131k oyun oynamaya
+    ve okuluna devam edebilir. \n\nArkada\u015Flar\u0131 Giray'\u0131 \xE7ok \xF6zlemi\u015Ftir.
+    \n\n1. Bravo Giray"
+  nextStates:
+  - {fileID: 11400000, guid: 95b87c417ca7ec74b849c1c3561a4f89, type: 2}
